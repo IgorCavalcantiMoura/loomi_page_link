@@ -7,9 +7,9 @@ elementSwitch.addEventListener("click", () => {
   lightMode.classList.toggle("light");
 
   if (lightMode.classList.contains("light")) {
-    img.setAttribute("src", "./assets/assets/YAnYvWgH2cEZIXwBUqaxhkplBQc-removebg-preview.png");
+    img.setAttribute("src", "./assets/assets/Group 21 (2).png");
   } else {
-    img.setAttribute("src", "./assets/assets/YAnYvWgH2cEZIXwBUqaxhkplBQc-removebg-preview.png");
+    img.setAttribute("src", "./assets/assets/Group 21 (2).png");
   }
 });
 
