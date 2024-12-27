@@ -18,7 +18,7 @@
 
 .light {
   --text-color: white;
-  --bg-url: #5B2DC4;
+  --bg-url: url(./assets/assets/e297f2f3-2aa6-44e1-b5d0-6df2d00847ef.jpeg);
   /* --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
