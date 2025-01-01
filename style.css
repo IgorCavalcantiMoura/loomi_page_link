@@ -230,14 +230,14 @@ footer {
 
 @media (min-width: 700px) {
   :root {
-    /* --bg-url: url(./assets/assets/bg-desktop.jpg); */
-    --bg-url: #141414;
+    --bg-url: url(./assets/assets/Group\ 31.png);
+    /* --bg-url: #141414; */
     
   }
 
   .light {
-    --bg-url: #5B2DC4;
-    /* --bg-url: url(./assets/assets/bg-desktop-light.jpg); */
+    /* --bg-url: #5B2DC4; */
+    --bg-url: url(./assets/assets/Group\ 30.png);
   }
 }
 
