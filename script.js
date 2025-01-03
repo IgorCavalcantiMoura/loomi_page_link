@@ -7,9 +7,9 @@ elementSwitch.addEventListener("click", () => {
   lightMode.classList.toggle("light");
 
   if (lightMode.classList.contains("light")) {
-    img.setAttribute("src", "./assets/assets/Group 33 (1).png");
+    img.setAttribute("src", "./assets/assets/Group 33 (2).png");
   } else {
-    img.setAttribute("src", "./assets/assets/Group 33 (1).png");
+    img.setAttribute("src", "./assets/assets/Group 33 (2).png");
   }
 });
 
